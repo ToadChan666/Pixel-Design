@@ -1,6 +1,8 @@
 # Pixel-Design.html
 <html>
     <head>
+  
+        <title>Pixel Design</title>
         
         <link rel="stylesheet" href="style.css"/>
         </head>
